@@ -1,20 +1,28 @@
 # Links
 
-[http://www.factor.io](http://www.factor.io/)  
+{% embed url="http://www.factor.io" %}
+
+{% embed url="https://froxlor.org" %}
+
+
+
+{% embed url="https://www.ispconfig.org" %}
+
+{% embed url="https://www.virtualmin.com" %}
+
+{% embed url="https://sysadmin.libhunt.com" %}
+
+{% embed url="https://armor.labstack.com" %}
+
+{% embed url="https://github.com/genet-app/genet" %}
+
+service probe
+
+{% embed url="https://github.com/valeriansaliou/vigil" %}
+
+
+
   
-[https://froxlor.org](https://froxlor.org/)  
-  
-[https://www.ispconfig.org](https://www.ispconfig.org/)  
-  
-[https://www.virtualmin.com](https://www.virtualmin.com/)  
-  
-[https://sysadmin.libhunt.com](https://sysadmin.libhunt.com/)  
-  
-[https://armor.labstack.com](https://armor.labstack.com/)  
-  
-[https://github.com/genet-app/genet](https://github.com/genet-app/genet)  
-  
-service probe[https://github.com/valeriansaliou/vigil](https://github.com/valeriansaliou/vigil)  
   
 [https://github.com/bazzite/statusfy/tree/develop/examples](https://github.com/bazzite/statusfy/tree/develop/examples)  
 [https://statusfy.co](https://statusfy.co/)  

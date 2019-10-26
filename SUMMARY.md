@@ -4,6 +4,7 @@
 
 ## Monitoring
 
+* [Links](monitoring/links.md)
 * [Prometheus](monitoring/prometheus.md)
 
 ## Kubernetes
@@ -12,6 +13,7 @@
   * [GKE](kubernetes/managed-k8s/gke.md)
   * [EKS](kubernetes/managed-k8s/eks.md)
   * [AKS](kubernetes/managed-k8s/aks.md)
+* [Kubernetes Distributions](kubernetes/kubernetes-distributions.md)
 * [Troubleshooting](kubernetes/troubleshooting/README.md)
   * [Troubleshooting Clusters](kubernetes/troubleshooting/troubleshooting-clusters.md)
   * [Troubleshooting Pods](kubernetes/troubleshooting/troubleshooting-pods.md)
@@ -33,7 +35,8 @@
 
 * [Disaster Recovery](sre/disaster-recovery.md)
 * [Capacity Planning](sre/capacity-planning.md)
-* [Links](sre/links.md)
+* [Links](sre/links/README.md)
+  * [Untitled](sre/links/untitled.md)
 
 ## Links
 
