@@ -38,8 +38,7 @@
 
 * [Disaster Recovery](sre/disaster-recovery.md)
 * [Capacity Planning](sre/capacity-planning.md)
-* [Links](sre/links/README.md)
-  * [Untitled](sre/links/untitled.md)
+* [Links](sre/links.md)
 
 ## Links
 
