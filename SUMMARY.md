@@ -4,8 +4,11 @@
 
 ## Monitoring
 
-* [Links](monitoring/links.md)
 * [Prometheus](monitoring/prometheus.md)
+* [Loki](monitoring/loki.md)
+* [Thanos](monitoring/thanos.md)
+* [New Relic](monitoring/new-relic.md)
+* [Links](monitoring/links.md)
 
 ## Kubernetes
 
