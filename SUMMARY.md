@@ -42,7 +42,7 @@
 
 ## Links
 
-* [Links](links/untitled-1/README.md)
-  * [Monitoring](links/untitled-1/monitoring.md)
-  * [Potential to use for Monitoring](links/untitled-1/potential-to-use-for-monitoring.md)
+* [Monitoring](links/monitoring.md)
+* [Potential to use for Monitoring](links/potential-to-use-for-monitoring.md)
+* [Misc](links/misc.md)
 

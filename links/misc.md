@@ -1,4 +1,4 @@
-# Links
+# Misc
 
 {% embed url="https://github.com/binhnguyennus/awesome-scalability" caption="" %}
 
