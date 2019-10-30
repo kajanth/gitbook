@@ -2,6 +2,11 @@
 
 * [Thoughts and Patterns](README.md)
 
+## Tutorials
+
+* [Executing script on K8s Nodes](tutorials/executing-script-on-k8s-nodes.md)
+* [Velero](tutorials/untitled.md)
+
 ## Monitoring
 
 * [Prometheus](monitoring/prometheus.md)
