@@ -2,6 +2,10 @@
 
 * [Thoughts and Patterns](README.md)
 
+## Development
+
+# [API Development Tools](development/api-development-tools.md)
+
 ## Tutorials
 
 * [Executing script on K8s Nodes](tutorials/executing-script-on-k8s-nodes.md)
