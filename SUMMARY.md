@@ -4,7 +4,7 @@
 
 ## Development
 
-# [API Development Tools](development/api-development-tools.md)
+* [API Development Tools](development/api-development-tools.md)
 
 ## Tutorials
 
