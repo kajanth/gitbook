@@ -5,6 +5,7 @@
 ## Development
 
 * [API Development Tools](development/api-development-tools.md)
+* [API Security Checklist](development/api-security-checklist.md)
 
 ## Tutorials
 
@@ -48,6 +49,10 @@
 * [Disaster Recovery](sre/disaster-recovery.md)
 * [Capacity Planning](sre/capacity-planning.md)
 * [Links](sre/links.md)
+
+## Security
+
+* [links](security/links.md)
 
 ## Links
 
