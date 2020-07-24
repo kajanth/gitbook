@@ -60,3 +60,7 @@
 * [Potential to use for Monitoring](links/potential-to-use-for-monitoring.md)
 * [Misc](links/misc.md)
 
+## scripts
+
+* [terraform scan](scripts/terraform-scan.md)
+
