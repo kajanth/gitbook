@@ -64,3 +64,7 @@
 
 * [terraform scan](scripts/terraform-scan.md)
 
+## aws
+
+* [aws resources](aws/aws-resources.md)
+
