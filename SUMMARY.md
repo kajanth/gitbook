@@ -68,3 +68,8 @@
 
 * [aws resources](aws/aws-resources.md)
 
+## php
+
+* [php resources](php/php-resources.md)
+* [wp links](php/wp-links.md)
+
