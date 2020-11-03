@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Thoughts and Patterns](README.md)
+* [cloudcompare](cloudcompare.md)
 
 ## Development
 
