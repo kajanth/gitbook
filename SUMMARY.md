@@ -43,6 +43,7 @@
 
 ## Tools
 
+* [Random](tools/random.md)
 * [Links](tools/links-to-tools.md)
 
 ## SRE
