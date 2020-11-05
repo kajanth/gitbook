@@ -1,30 +1,30 @@
 brew install m-cli
 
-https://magic-wormhole.readthedocs.io/en/latest/welcome.html#example
+{% embed url="https://magic-wormhole.readthedocs.io/en/latest/welcome.html#example" caption=""%}
 
-https://github.com/alichtman/shallow-backup
+{% embed url="https://github.com/alichtman/shallow-backup" caption=""%}
 
-https://github.com/topics/awesome
+{% embed url="https://github.com/topics/awesome" caption=""%}
 
-https://github.com/trimstray/the-book-of-secret-knowledge
+{% embed url="https://github.com/trimstray/the-book-of-secret-knowledge" caption=""%}
 
-https://github.com/farrokhi/dnsdiag
+{% embed url="https://github.com/farrokhi/dnsdiag" caption=""%}
 
-https://github.com/proabiral/inception
+{% embed url="https://github.com/proabiral/inception" caption=""%}
 
-https://github.com/apptension/developer-handbook
+{% embed url="https://github.com/apptension/developer-handbook" caption=""%}
 
-https://github.com/boltops-tools/jets
+{% embed url="https://github.com/boltops-tools/jets" caption=""%}
 
-https://github.com/RhinoSecurityLabs/pacu
+{% embed url="https://github.com/RhinoSecurityLabs/pacu" caption=""%}
 
-https://github.com/cloudkj/scar
+{% embed url="https://github.com/cloudkj/scar" caption=""%}
 
-https://github.com/tfsec/tfsec
+{% embed url="https://github.com/tfsec/tfsec" caption=""%}
 
-https://github.com/widdix/aws-cf-templates
+{% embed url="https://github.com/widdix/aws-cf-templates" caption=""%}
 
-https://github.com/widdix/aws-cf-templates-cli
+{% embed url="https://github.com/widdix/aws-cf-templates-cli" caption=""%}
 
 https://github.com/cfn-modules/docs
 
