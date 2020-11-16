@@ -5,6 +5,7 @@
 
 ## Development
 
+* [12 factor apps](development/12-markdown.md)
 * [API Development Tools](development/api-development-tools.md)
 * [API Security Checklist](development/api-security-checklist.md)
 
