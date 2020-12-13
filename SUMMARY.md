@@ -5,6 +5,7 @@
 
 ## Development
 
+* [Javascript](development/javascript.md)
 * [12 factor apps](development/12-markdown.md)
 * [API Development Tools](development/api-development-tools.md)
 * [API Security Checklist](development/api-security-checklist.md)
@@ -29,6 +30,7 @@
   * [EKS](kubernetes/managed-k8s/eks.md)
   * [AKS](kubernetes/managed-k8s/aks.md)
 * [Kubernetes Distributions](kubernetes/kubernetes-distributions.md)
+* [Links](kubernetes/links.md)
 * [Troubleshooting](kubernetes/troubleshooting/README.md)
   * [Troubleshooting Clusters](kubernetes/troubleshooting/troubleshooting-clusters.md)
   * [Troubleshooting Pods](kubernetes/troubleshooting/troubleshooting-pods.md)
@@ -38,20 +40,39 @@
     * [Troubleshooting Azure](kubernetes/troubleshooting/troubleshooting-cloudprovider/troubleshooting-azure.md)
     * [Troubleshooting AWS](kubernetes/troubleshooting/troubleshooting-cloudprovider/troubleshooting-aws.md)
 
-## Raspberry PI
+## aws
 
-* [Links](raspberry-pi/links.md)
+* [aws resources](aws/aws-resources.md)
+* [Links](aws/links.md)
+
+## Azure
+
+* [Links](azure/links.md)
+
+## SRE
+
+* [Cheat Sheet](sre/cheat-sheet.md)
+* [Disaster Recovery](sre/disaster-recovery.md)
+* [Capacity Planning](sre/capacity-planning.md)
+* [Links](sre/links.md)
 
 ## Tools
 
 * [Random](tools/random.md)
 * [Links](tools/links-to-tools.md)
 
-## SRE
+## Cheats
 
-* [Disaster Recovery](sre/disaster-recovery.md)
-* [Capacity Planning](sre/capacity-planning.md)
-* [Links](sre/links.md)
+* [Links](cheats/links.md)
+* [Kubernetes](cheats/kubernetes.md)
+* [Vagrant](cheats/vagrant.md)
+* [Tmux](cheats/tmux.md)
+* [Reverse tunnel](cheats/reverse-tunnel.md)
+* [Rundeck](cheats/rundeck.md)
+
+## Raspberry PI
+
+* [Links](raspberry-pi/links.md)
 
 ## Security
 
@@ -67,12 +88,17 @@
 
 * [terraform scan](scripts/terraform-scan.md)
 
-## aws
-
-* [aws resources](aws/aws-resources.md)
-
 ## php
 
 * [php resources](php/php-resources.md)
 * [wp links](php/wp-links.md)
+
+---
+
+* [Terraform](terraform.md)
+* [Links](links-1.md)
+
+## Windows
+
+* [Untitled](windows/untitled.md)
 

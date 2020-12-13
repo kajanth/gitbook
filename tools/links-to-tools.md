@@ -1,5 +1,7 @@
 # Links
 
+{% embed url="https://outervision.com/power-supply-calculator" %}
+
 {% embed url="http://www.factor.io" caption="" %}
 
 {% embed url="https://froxlor.org" caption="" %}
