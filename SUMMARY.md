@@ -10,6 +10,7 @@
 * [Bootstrap](tools/bootstrap.md)
 * [Random](tools/random.md)
 * [Common commands](tools/common-used.md)
+* [Network Tools](tools/network-tools.md)
 * [Links](tools/links-to-tools.md)
 
 ---
