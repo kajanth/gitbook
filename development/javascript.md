@@ -8,5 +8,7 @@
 
 {% embed url="https://dev.to/v3frankie/setup-your-mac-for-development-2020-edition-1c8a" %}
 
+{% embed url="https://github.com/laurengarcia/url-metadata" %}
+
 
 
