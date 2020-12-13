@@ -1,6 +1,18 @@
 # Table of contents
 
 * [Thoughts and Patterns](README.md)
+
+## Tools
+
+* [Command's JS](tools/commands-js.md)
+* [Command's net](tools/commands-net.md)
+* [Mac Specific](tools/mac-specific.md)
+* [Bootstrap](tools/bootstrap.md)
+* [Random](tools/random.md)
+* [Links](tools/links-to-tools.md)
+
+---
+
 * [cloudcompare](cloudcompare.md)
 
 ## Development
@@ -56,11 +68,6 @@
 * [Capacity Planning](sre/capacity-planning.md)
 * [Links](sre/links.md)
 
-## Tools
-
-* [Random](tools/random.md)
-* [Links](tools/links-to-tools.md)
-
 ## Cheats
 
 * [Links](cheats/links.md)
@@ -100,5 +107,5 @@
 
 ## Windows
 
-* [Untitled](windows/untitled.md)
+* [Cheat Sheet](windows/untitled.md)
 
