@@ -9,6 +9,7 @@
 * [Mac Specific](tools/mac-specific.md)
 * [Bootstrap](tools/bootstrap.md)
 * [Random](tools/random.md)
+* [Common commands](tools/common-used.md)
 * [Links](tools/links-to-tools.md)
 
 ---
