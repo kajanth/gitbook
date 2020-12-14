@@ -46,6 +46,7 @@
   * [AKS](kubernetes/managed-k8s/aks.md)
 * [Kubernetes Distributions](kubernetes/kubernetes-distributions.md)
 * [Links](kubernetes/links.md)
+* [Known Issues and solutions](kubernetes/known-issues-and-solutions.md)
 * [Troubleshooting](kubernetes/troubleshooting/README.md)
   * [Troubleshooting Clusters](kubernetes/troubleshooting/troubleshooting-clusters.md)
   * [Troubleshooting Pods](kubernetes/troubleshooting/troubleshooting-pods.md)
@@ -54,6 +55,10 @@
   * [Troubleshooting CloudProvider](kubernetes/troubleshooting/troubleshooting-cloudprovider/README.md)
     * [Troubleshooting Azure](kubernetes/troubleshooting/troubleshooting-cloudprovider/troubleshooting-azure.md)
     * [Troubleshooting AWS](kubernetes/troubleshooting/troubleshooting-cloudprovider/troubleshooting-aws.md)
+
+## Golang
+
+* [cheatsheet](golang/cheatsheet.md)
 
 ## aws
 
@@ -73,8 +78,14 @@
 
 ## Cheats
 
+* [ELK](cheats/elk.md)
+* [Kind](cheats/kind.md)
+* [MicroK8S](cheats/microk8s.md)
+* [Untitled](cheats/untitled.md)
+* [ZSH](cheats/zsh.md)
+* [MongoDB](cheats/mongodb.md)
+* [MySQL](cheats/mysql.md)
 * [Links](cheats/links.md)
-* [Kubernetes](cheats/kubernetes.md)
 * [Vagrant](cheats/vagrant.md)
 * [Tmux](cheats/tmux.md)
 * [Reverse tunnel](cheats/reverse-tunnel.md)
