@@ -39,6 +39,7 @@
 
 ## Kubernetes
 
+* [Kubernetes Random](kubernetes/kubernetes-random.md)
 * [Managed K8s](kubernetes/managed-k8s/README.md)
   * [GKE](kubernetes/managed-k8s/gke.md)
   * [EKS](kubernetes/managed-k8s/eks.md)
