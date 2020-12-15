@@ -10,5 +10,7 @@ description: Mac Specific tools and resources
 
 {% embed url="https://dev.to/v3frankie/setup-your-mac-for-development-2020-edition-1c8a" %}
 
+{% embed url="https://direnv.net/docs/installation.html" %}
+
 
 

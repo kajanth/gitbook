@@ -4,6 +4,7 @@
 
 ## Tools
 
+* [Windows Container](tools/windows-container.md)
 * [Command's JS](tools/commands-js.md)
 * [Command's net](tools/commands-net.md)
 * [Mac Specific](tools/mac-specific.md)
@@ -23,6 +24,7 @@
 * [12 factor apps](development/12-markdown.md)
 * [API Development Tools](development/api-development-tools.md)
 * [API Security Checklist](development/api-security-checklist.md)
+* [Links](development/links.md)
 
 ## Tutorials
 
@@ -78,6 +80,7 @@
 
 ## Cheats
 
+* [Powershell](cheats/powershell.md)
 * [ELK](cheats/elk.md)
 * [Kind](cheats/kind.md)
 * [MicroK8S](cheats/microk8s.md)
