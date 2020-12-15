@@ -125,4 +125,5 @@
 ## Windows
 
 * [Cheat Sheet](windows/untitled.md)
+* [Powershell commands](windows/powershell-commands.md)
 
