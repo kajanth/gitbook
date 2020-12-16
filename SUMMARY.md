@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Thoughts and Patterns](README.md)
+* [Start](start.md)
 
 ## Tools
 
