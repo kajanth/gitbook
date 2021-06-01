@@ -2,6 +2,7 @@
 
 * [Thoughts and Patterns](README.md)
 * [Start](start.md)
+* [Devops](devops.md)
 
 ## Tools
 

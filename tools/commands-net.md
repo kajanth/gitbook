@@ -1,37 +1,38 @@
-# Experiment
+# Command's net
 
-{% embed url="https://github.com/loft-sh/kiosk" %}
+{% embed url="https://github.com/loft-sh/kiosk" caption="" %}
 
-{% embed url="https://devspace.cloud/" %}
+{% embed url="https://devspace.cloud/" caption="" %}
 
-{% embed url="https://keptn.sh/" %}
+{% embed url="https://keptn.sh/" caption="" %}
 
-{% embed url="https://devspace.sh/" %}
+{% embed url="https://devspace.sh/" caption="" %}
 
-{% embed url="https://loft.sh/" %}
+{% embed url="https://loft.sh/" caption="" %}
 
-{% embed url="https://github.com/loft-sh/kiosk" %}
+{% embed url="https://github.com/loft-sh/kiosk" caption="" %}
 
-{% embed url="https://www.curiefense.io/features" %}
+{% embed url="https://www.curiefense.io/features" caption="" %}
 
-{% embed url="https://github.com/CrowdfoxGmbH/external-service-operator" %}
+{% embed url="https://github.com/CrowdfoxGmbH/external-service-operator" caption="" %}
 
-{% embed url="https://artifacthub.io/packages/helm/cmacrae/kove" %}
+{% embed url="https://artifacthub.io/packages/helm/cmacrae/kove" caption="" %}
 
-{% embed url="https://artifacthub.io/packages/helm/deliveryhero/k8s-resources" %}
+{% embed url="https://artifacthub.io/packages/helm/deliveryhero/k8s-resources" caption="" %}
 
-{% embed url="https://artifacthub.io/packages/helm/deliveryhero/labelsmanager-controller" %}
+{% embed url="https://artifacthub.io/packages/helm/deliveryhero/labelsmanager-controller" caption="" %}
 
-{% embed url="https://github.com/deliveryhero/helm-charts/tree/master/stable" %}
+{% embed url="https://github.com/deliveryhero/helm-charts/tree/master/stable" caption="" %}
 
-{% embed url="https://www.kubecost.com/" %}
+{% embed url="https://www.kubecost.com/" caption="" %}
 
-{% embed url="https://github.com/runatlantis/atlantis" %}
+{% embed url="https://github.com/runatlantis/atlantis" caption="" %}
 
-{% embed url="https://github.com/deliveryhero/serverless-aws-documentation" %}
+{% embed url="https://github.com/deliveryhero/serverless-aws-documentation" caption="" %}
 
-{% embed url="https://www.thoughtworks.com/radar" %}
+{% embed url="https://www.thoughtworks.com/radar" caption="" %}
 
-{% embed url="https://github.com/deliveryhero/tech-radar" %}
+{% embed url="https://github.com/deliveryhero/tech-radar" caption="" %}
 
-{% embed url="https://github.com/bdargan/techradar" %}
+{% embed url="https://github.com/bdargan/techradar" caption="" %}
+
