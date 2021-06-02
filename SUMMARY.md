@@ -27,6 +27,14 @@
   * [YubiKey SSO](tutorials-1/yubikey-sso.md)
   * [Good Infrastructure](tutorials-1/good-infrastructure.md)
 
+## SRE
+
+* [Checklist](sre/checklist.md)
+* [Cheat Sheet](sre/cheat-sheet.md)
+* [Disaster Recovery](sre/disaster-recovery.md)
+* [Capacity Planning](sre/capacity-planning.md)
+* [Links](sre/links.md)
+
 ## Tools
 
 * [CNCF](tools/cncf.md)
@@ -96,13 +104,6 @@
 ## Azure
 
 * [Links](azure/links.md)
-
-## SRE
-
-* [Cheat Sheet](sre/cheat-sheet.md)
-* [Disaster Recovery](sre/disaster-recovery.md)
-* [Capacity Planning](sre/capacity-planning.md)
-* [Links](sre/links.md)
 
 ## Cheats
 
