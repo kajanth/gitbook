@@ -1,8 +1,4 @@
-# Checklist
-
-
-
-## SRE Checklist
+# SRE Checklist
 
 ### General
 

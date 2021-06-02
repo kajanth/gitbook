@@ -29,7 +29,7 @@
 
 ## SRE
 
-* [Checklist](sre/checklist.md)
+* [SRE Checklist](sre/checklist.md)
 * [Cheat Sheet](sre/cheat-sheet.md)
 * [Disaster Recovery](sre/disaster-recovery.md)
 * [Capacity Planning](sre/capacity-planning.md)
