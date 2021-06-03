@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Thoughts and Patterns](README.md)
+* [Start](start.md)
 * [Ops](ops/README.md)
   * [Design Documents](ops/design-documents.md)
-* [Start](start.md)
 * [Devops](devops.md)
 * [Incident Response](incident-response/README.md)
   * [Overview](incident-response/overview.md)
